@@ -10,6 +10,3 @@ i = 0
 while i < attempts:
     i =+ 1
     print(rollDie(6))
-
-if attempts == 1:
-    if 
